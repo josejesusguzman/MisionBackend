@@ -58,8 +58,6 @@ Esta misión tiene 8 módulos que tienen varios subtemas que iremos viendo confo
     - Creeación de un API con Express
     - Pruebas de endpoints con Postman
     
-## Semana 4
-    
 7. Camino a developer
     - Lectura de código legado, cuando estés en un proyecto te tocará integrarte a proyectos ya iniciados
     - Técnicas de refactorind y diseño con orientación a objetos
