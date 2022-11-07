@@ -9,7 +9,7 @@ En esta misión veremos la lógica y la técnica detrás de lo que mueve las apl
 
 # Temario de la misión Backend
 
-Esta misión tiene 6 módulos que tienen varios subtemas que iremos viendo conforme avancemos con el curso.
+Esta misión tiene 8 módulos que tienen varios subtemas que iremos viendo conforme avancemos con el curso.
 
 ## Semana 1
 
