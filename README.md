@@ -13,7 +13,7 @@ Esta misión tiene 8 módulos que tienen varios subtemas que iremos viendo confo
 
 ## Semana 1
 
-1. Introducción a Node.js
+1. Introducción a JavaScript para Backend
     - La importancia de las herramientas en el desarrollo de software: Git y GitHub
     - JavaScript como lenguaje de programación y Node JS como entorno de ejecución
     - Scripting (módulos, contextos, ES6, CommonJS, NPM)
