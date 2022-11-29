@@ -53,7 +53,7 @@ Esta misión tiene 7 módulos que tienen varios subtemas que iremos viendo confo
 - [Hosting de una applicación de React]()
 
 #### El Proyecto
-- [ToDo App]()
+- [ToDo App](/02-Fundamentos-React/proyecto-todo.md)
 
 #### La Tarea
 - [Pokédex]()
