@@ -1,4 +1,5 @@
-# Misión Backend -
+# Misión Backend
+
 
 ## Bienvenid@ a una nueva etapa misión!!
 
@@ -13,6 +14,12 @@ Esta misión tiene 7 módulos que tienen varios subtemas que iremos viendo confo
 
 **Las diferentes ligas se irán desbloqueando durante el curso conforme pasen las semanas para que no se me adelanten**
 
+### -1. Las Playlist oficiales autorizadas
+- [Música pa jakiar](https://open.spotify.com/playlist/6K5Ot9oBJA2wnP5GiN2Vcj?si=dac276877959418e)
+- [Cumbias pa jakiar el pentagono](https://open.spotify.com/playlist/7vNuXU1vaXmbWIAcoDLSMJ?si=787c3b4a77ba41ae)
+- [Perreo puerco pa jakiar más puerco](https://open.spotify.com/playlist/2URfkpVmGNoShqgU2aVONc?si=a134d105880a47c0)
+- [LoFi for programming](https://open.spotify.com/playlist/3TxfEUkuXd0FNiiczwII0e?si=51df479eb7634f2c)
+- [Música para programar con odio](https://open.spotify.com/playlist/0BEi0kOdkpWKdzqm7V7Wfc?si=9993d36cd223458f)
 
 ### 0. Prework - Instalación
 - [Git y SSH keys](/00-Prework/git-ssh.md)
