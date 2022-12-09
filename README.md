@@ -73,7 +73,7 @@ Esta misión tiene 7 módulos que tienen varios subtemas que iremos viendo confo
 - [Hosting de una applicación de Node.js]()
 
 #### El Proyecto
-- [Barcos multijugador]()
+- [Barcos multijugador](/03-Node.js/proyecto-barcos.md)
 
 #### La Tarea
 - [Aplicación de chat en tiempo real]()
